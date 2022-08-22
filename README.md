@@ -1,7 +1,7 @@
   ## Hello there 👋
   
   
-  ## About Me 👩‍💼
+  ## About Me 
 
 - 🔭 I’m currently working on ASP.NET MVC|.NET Core|ASP.NET Core|Azure|Angular
 - 🌱 I’m currently learning Azure | Angular
