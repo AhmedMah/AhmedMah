@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ASP.NET MVC|.NET Core|ASP.NET Core|Azure|Angular
 - 🌱 I’m currently learning Azure | Angular
-- 👯 I’m looking to collaborate on ASP.NET Core and Angular projects.
+- > I’m looking to collaborate on ASP.NET Core and Angular projects.
 
 
 ## Contact Me
