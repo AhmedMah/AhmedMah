@@ -1,11 +1,17 @@
-  ## Hello there 👋
-  
-  
-  ## About Me 
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=ahmedmah&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed abdi" /> </p>
+<h1 align="center">Hi 👋, I'm Ahmed Abdi</h1>
+<h3 align="center">Software developer working on .NET Core and Angular. Currently learning Azure. Looking for to colobrate on ASP.NET Core projects.</h3>
 
-- 🔭 I’m currently working on ASP.NET MVC|.NET Core|ASP.NET Core|Azure|Angular
-- 🌱 I’m currently learning Azure | Angular
--  I’m looking to collaborate on ASP.NET Core and Angular projects.
+
+---
+
+### 📝 &nbsp;Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmah&theme=tokyonight&layout=default" alt="ahmedmah" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmah&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="ahmedmah" /></p><br /><br /><br />
+
+---
 
 
 ## Contact Me
