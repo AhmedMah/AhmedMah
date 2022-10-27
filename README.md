@@ -7,8 +7,6 @@
 
 ### 📝 &nbsp;Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmah&theme=tokyonight&layout=default" alt="ahmedmah" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedmah&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="ahmedmah" /></p><br /><br /><br />
 
 ---
